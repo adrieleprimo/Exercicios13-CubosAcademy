@@ -9,3 +9,4 @@ module.exports = [
     { id: 8, nome: "Webcam C920s", valor: 80000 },
     { id: 9, nome: "Monitor LG 29 FHD", valor: 129900 },
 ];
+
